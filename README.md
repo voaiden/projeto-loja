@@ -1,3 +1,5 @@
+Meu projeto da faculdade (Algoritmos e Pensamento Computacional) sobre unir os conceitos de algoritmos de ordenação com manipulação de arquivos
+
 # 🛒 Sistema de Cadastro de Loja - Atividade Avaliativa 04
 
 Sistema completo desenvolvido em **Linguagem C** que une estruturas de dados, ponteiros, algoritmos de ordenação e manipulação avançada de arquivos de texto para o gerenciamento de um cadastro genérico de produtos de uma loja.
