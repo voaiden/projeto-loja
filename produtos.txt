@@ -1,0 +1,4 @@
+1|Regata Branca|Vestuário|47.99|30|Moda Brasil
+2|Fone Óptico RGB|Informática|59.99|15|TecnoShop
+3|Sabonete Liquído 300ml|Higiene Pessoal|20.60|40|Beleza Pura
+4|Chá 500g|Alimentos|15.00|25|Grãos do Sul
