@@ -2,3 +2,4 @@
 2|Fone Óptico RGB|Informática|59.99|15|TecBom
 3|Sabonete Liquído 400ml|Higiene Pessoal|20.60|40|Beleza Perfeita
 4|Chá 600g|Alimentos|15.00|25|Grãos de Minas
+5|GTA VII|Entreterimento|500.00|1|Rockdog Games
