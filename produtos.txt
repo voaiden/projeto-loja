@@ -1,0 +1,4 @@
+1|Regata Branca|Vestuário|47.99|30|Moda Carioca
+2|Fone Óptico RGB|Informática|59.99|15|TecBom
+3|Sabonete Liquído 400ml|Higiene Pessoal|20.60|40|Beleza Perfeita
+4|Chá 600g|Alimentos|15.00|25|Grãos de Minas
